@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:title="Availability"
+        android:icon="@drawable/ic_local_dining"
+        android:id="@+id/availablity"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:title="Message"
+        android:icon="@drawable/ic_message"
+        android:id="@+id/message"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:title="Settings"
+        android:id="@+id/settings"
+        app:showAsAction="never"/>
+    <item
+        android:title="Privacy Policy"
+        android:icon="@drawable/ic_message"
+        android:id="@+id/privacy"
+        app:showAsAction="never"/>
+
+</menu>

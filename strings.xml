@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">FoodApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="FoodQuantity">
+        <item>Food Quantity</item>
+        <item>1 person</item>
+        <item>2 persons</item>
+        <item>3 persons</item>
+        <item>4 persons</item>
+        <item>5 persons</item>
+        <item>6 persons</item>
+        <item>7 persons</item>
+        <item>8 persons</item>
+        <item>9 persons</item>
+        <item>10 persons</item>
+        <item>More than 10 persons</item>
+    </string-array>
+    <string-array name="FoodType">
+        <item>Food Type</item>
+        <item>Roti/Salan </item>
+        <item>Roti</item>
+        <item>Salan</item>
+        <item>Rice</item>
+        <item>Salad</item>
+        <item>Fruit</item>
+        <item>Other</item>
+
+    </string-array>
+
+    <string name="title_activity_maps">Map</string>
+</resources>
